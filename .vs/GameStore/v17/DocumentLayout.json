@@ -1,0 +1,542 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27B7159B-7E4F-47AD-AFAC-BE5549AB8C05}|GameStore.Tests\\GameStore.Tests.csproj|c:\\users\\ivo_0\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\gamestoreb\\gamestoreb\\gamestore.tests\\gameservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27B7159B-7E4F-47AD-AFAC-BE5549AB8C05}|GameStore.Tests\\GameStore.Tests.csproj|solutionrelative:gamestore.tests\\gameservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B4D3CF-2D6E-4D3E-893B-D73EC43B2539}|GameStore.DL\\GameStore.DL.csproj|c:\\users\\ivo_0\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\gamestoreb\\gamestoreb\\gamestore.dl\\staticdata\\staticdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B4D3CF-2D6E-4D3E-893B-D73EC43B2539}|GameStore.DL\\GameStore.DL.csproj|solutionrelative:gamestore.dl\\staticdata\\staticdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B4D3CF-2D6E-4D3E-893B-D73EC43B2539}|GameStore.DL\\GameStore.DL.csproj|c:\\users\\ivo_0\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\gamestoreb\\gamestoreb\\gamestore.dl\\repositories\\mongodb\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B4D3CF-2D6E-4D3E-893B-D73EC43B2539}|GameStore.DL\\GameStore.DL.csproj|solutionrelative:gamestore.dl\\repositories\\mongodb\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B4D3CF-2D6E-4D3E-893B-D73EC43B2539}|GameStore.DL\\GameStore.DL.csproj|c:\\users\\ivo_0\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\gamestoreb\\gamestoreb\\gamestore.dl\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B4D3CF-2D6E-4D3E-893B-D73EC43B2539}|GameStore.DL\\GameStore.DL.csproj|solutionrelative:gamestore.dl\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7B5DED-9D89-426C-92CF-C1D029C89A15}|GameStore.BL\\GameStore.BL.csproj|c:\\users\\ivo_0\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\gamestoreb\\gamestoreb\\gamestore.bl\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7B5DED-9D89-426C-92CF-C1D029C89A15}|GameStore.BL\\GameStore.BL.csproj|solutionrelative:gamestore.bl\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57A58A4-C6A4-43DB-A915-0E63B62861CC}|GameStore\\GameStore.csproj|c:\\users\\ivo_0\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\gamestoreb\\gamestoreb\\gamestore\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57A58A4-C6A4-43DB-A915-0E63B62861CC}|GameStore\\GameStore.csproj|solutionrelative:gamestore\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57A58A4-C6A4-43DB-A915-0E63B62861CC}|GameStore\\GameStore.csproj|c:\\users\\ivo_0\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\gamestoreb\\gamestoreb\\gamestore\\serviceextensions\\serviceconfigurationsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57A58A4-C6A4-43DB-A915-0E63B62861CC}|GameStore\\GameStore.csproj|solutionrelative:gamestore\\serviceextensions\\serviceconfigurationsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7B5DED-9D89-426C-92CF-C1D029C89A15}|GameStore.BL\\GameStore.BL.csproj|c:\\users\\ivo_0\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\gamestoreb\\gamestoreb\\gamestore.bl\\interfaces\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7B5DED-9D89-426C-92CF-C1D029C89A15}|GameStore.BL\\GameStore.BL.csproj|solutionrelative:gamestore.bl\\interfaces\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7B5DED-9D89-426C-92CF-C1D029C89A15}|GameStore.BL\\GameStore.BL.csproj|c:\\users\\ivo_0\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\gamestoreb\\gamestoreb\\gamestore.bl\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7B5DED-9D89-426C-92CF-C1D029C89A15}|GameStore.BL\\GameStore.BL.csproj|solutionrelative:gamestore.bl\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57A58A4-C6A4-43DB-A915-0E63B62861CC}|GameStore\\GameStore.csproj|c:\\users\\ivo_0\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\gamestoreb\\gamestoreb\\gamestore\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57A58A4-C6A4-43DB-A915-0E63B62861CC}|GameStore\\GameStore.csproj|solutionrelative:gamestore\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7B5DED-9D89-426C-92CF-C1D029C89A15}|GameStore.BL\\GameStore.BL.csproj|c:\\users\\ivo_0\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\gamestoreb\\gamestoreb\\gamestore.bl\\interfaces\\ipublisherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7B5DED-9D89-426C-92CF-C1D029C89A15}|GameStore.BL\\GameStore.BL.csproj|solutionrelative:gamestore.bl\\interfaces\\ipublisherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7B5DED-9D89-426C-92CF-C1D029C89A15}|GameStore.BL\\GameStore.BL.csproj|c:\\users\\ivo_0\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\gamestoreb\\gamestoreb\\gamestore.bl\\services\\publisherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7B5DED-9D89-426C-92CF-C1D029C89A15}|GameStore.BL\\GameStore.BL.csproj|solutionrelative:gamestore.bl\\services\\publisherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57A58A4-C6A4-43DB-A915-0E63B62861CC}|GameStore\\GameStore.csproj|c:\\users\\ivo_0\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\gamestoreb\\gamestoreb\\gamestore\\controllers\\publishercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57A58A4-C6A4-43DB-A915-0E63B62861CC}|GameStore\\GameStore.csproj|solutionrelative:gamestore\\controllers\\publishercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E610A059-2A2A-4C90-AF00-DF5A0845D2B7}|GameStore.Models\\GameStore.Models.csproj|c:\\users\\ivo_0\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\gamestoreb\\gamestoreb\\gamestore.models\\dto\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E610A059-2A2A-4C90-AF00-DF5A0845D2B7}|GameStore.Models\\GameStore.Models.csproj|solutionrelative:gamestore.models\\dto\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B4D3CF-2D6E-4D3E-893B-D73EC43B2539}|GameStore.DL\\GameStore.DL.csproj|c:\\users\\ivo_0\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\gamestoreb\\gamestoreb\\gamestore.dl\\repositories\\mongodb\\publisherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B4D3CF-2D6E-4D3E-893B-D73EC43B2539}|GameStore.DL\\GameStore.DL.csproj|solutionrelative:gamestore.dl\\repositories\\mongodb\\publisherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B4D3CF-2D6E-4D3E-893B-D73EC43B2539}|GameStore.DL\\GameStore.DL.csproj|c:\\users\\ivo_0\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\gamestoreb\\gamestoreb\\gamestore.dl\\interfaces\\ipublisherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B4D3CF-2D6E-4D3E-893B-D73EC43B2539}|GameStore.DL\\GameStore.DL.csproj|solutionrelative:gamestore.dl\\interfaces\\ipublisherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B4D3CF-2D6E-4D3E-893B-D73EC43B2539}|GameStore.DL\\GameStore.DL.csproj|c:\\users\\ivo_0\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\gamestoreb\\gamestoreb\\gamestore.dl\\interfaces\\igamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B4D3CF-2D6E-4D3E-893B-D73EC43B2539}|GameStore.DL\\GameStore.DL.csproj|solutionrelative:gamestore.dl\\interfaces\\igamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E610A059-2A2A-4C90-AF00-DF5A0845D2B7}|GameStore.Models\\GameStore.Models.csproj|c:\\users\\ivo_0\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\gamestoreb\\gamestoreb\\gamestore.models\\dto\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E610A059-2A2A-4C90-AF00-DF5A0845D2B7}|GameStore.Models\\GameStore.Models.csproj|solutionrelative:gamestore.models\\dto\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E610A059-2A2A-4C90-AF00-DF5A0845D2B7}|GameStore.Models\\GameStore.Models.csproj|c:\\users\\ivo_0\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\gamestoreb\\gamestoreb\\gamestore.models\\requests\\getallgamesbypublisherrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E610A059-2A2A-4C90-AF00-DF5A0845D2B7}|GameStore.Models\\GameStore.Models.csproj|solutionrelative:gamestore.models\\requests\\getallgamesbypublisherrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E610A059-2A2A-4C90-AF00-DF5A0845D2B7}|GameStore.Models\\GameStore.Models.csproj|c:\\users\\ivo_0\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\gamestoreb\\gamestoreb\\gamestore.models\\responses\\getallgamesbypublisherresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E610A059-2A2A-4C90-AF00-DF5A0845D2B7}|GameStore.Models\\GameStore.Models.csproj|solutionrelative:gamestore.models\\responses\\getallgamesbypublisherresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57A58A4-C6A4-43DB-A915-0E63B62861CC}|GameStore\\GameStore.csproj|c:\\users\\ivo_0\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\gamestoreb\\gamestoreb\\gamestore\\healthchecks\\customhealthchecks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57A58A4-C6A4-43DB-A915-0E63B62861CC}|GameStore\\GameStore.csproj|solutionrelative:gamestore\\healthchecks\\customhealthchecks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57A58A4-C6A4-43DB-A915-0E63B62861CC}|GameStore\\GameStore.csproj|c:\\users\\ivo_0\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\gamestoreb\\gamestoreb\\gamestore\\mapconfig\\mapsterconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57A58A4-C6A4-43DB-A915-0E63B62861CC}|GameStore\\GameStore.csproj|solutionrelative:gamestore\\mapconfig\\mapsterconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57A58A4-C6A4-43DB-A915-0E63B62861CC}|GameStore\\GameStore.csproj|c:\\users\\ivo_0\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\gamestoreb\\gamestoreb\\gamestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57A58A4-C6A4-43DB-A915-0E63B62861CC}|GameStore\\GameStore.csproj|solutionrelative:gamestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E610A059-2A2A-4C90-AF00-DF5A0845D2B7}|GameStore.Models\\GameStore.Models.csproj|c:\\users\\ivo_0\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\gamestoreb\\gamestoreb\\gamestore.models\\configurations\\mongodbconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E610A059-2A2A-4C90-AF00-DF5A0845D2B7}|GameStore.Models\\GameStore.Models.csproj|solutionrelative:gamestore.models\\configurations\\mongodbconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57A58A4-C6A4-43DB-A915-0E63B62861CC}|GameStore\\GameStore.csproj|c:\\users\\ivo_0\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\gamestoreb\\gamestoreb\\gamestore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F57A58A4-C6A4-43DB-A915-0E63B62861CC}|GameStore\\GameStore.csproj|solutionrelative:gamestore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57A58A4-C6A4-43DB-A915-0E63B62861CC}|GameStore\\GameStore.csproj|c:\\users\\ivo_0\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\gamestoreb\\gamestoreb\\gamestore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F57A58A4-C6A4-43DB-A915-0E63B62861CC}|GameStore\\GameStore.csproj|solutionrelative:gamestore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57A58A4-C6A4-43DB-A915-0E63B62861CC}|GameStore\\GameStore.csproj|c:\\users\\ivo_0\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\gamestoreb\\gamestoreb\\gamestore\\validators\\addgamerequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57A58A4-C6A4-43DB-A915-0E63B62861CC}|GameStore\\GameStore.csproj|solutionrelative:gamestore\\validators\\addgamerequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E610A059-2A2A-4C90-AF00-DF5A0845D2B7}|GameStore.Models\\GameStore.Models.csproj|c:\\users\\ivo_0\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\gamestoreb\\gamestoreb\\gamestore.models\\gamestore.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E610A059-2A2A-4C90-AF00-DF5A0845D2B7}|GameStore.Models\\GameStore.Models.csproj|solutionrelative:gamestore.models\\gamestore.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27B7159B-7E4F-47AD-AFAC-BE5549AB8C05}|GameStore.Tests\\GameStore.Tests.csproj|c:\\users\\ivo_0\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\gamestoreb\\gamestoreb\\gamestore.tests\\gamestore.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{27B7159B-7E4F-47AD-AFAC-BE5549AB8C05}|GameStore.Tests\\GameStore.Tests.csproj|solutionrelative:gamestore.tests\\gamestore.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57A58A4-C6A4-43DB-A915-0E63B62861CC}|GameStore\\GameStore.csproj|c:\\users\\ivo_0\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\gamestoreb\\gamestoreb\\gamestore\\gamestore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F57A58A4-C6A4-43DB-A915-0E63B62861CC}|GameStore\\GameStore.csproj|solutionrelative:gamestore\\gamestore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 156,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore.DL\\Repositories\\MongoDb\\GameRepository.cs",
+              "RelativeDocumentMoniker": "GameStore.DL\\Repositories\\MongoDb\\GameRepository.cs",
+              "ToolTip": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore.DL\\Repositories\\MongoDb\\GameRepository.cs",
+              "RelativeToolTip": "GameStore.DL\\Repositories\\MongoDb\\GameRepository.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAA1wD4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:47:53.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StaticDb.cs",
+              "DocumentMoniker": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore.DL\\StaticData\\StaticDb.cs",
+              "RelativeDocumentMoniker": "GameStore.DL\\StaticData\\StaticDb.cs",
+              "ToolTip": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore.DL\\StaticData\\StaticDb.cs",
+              "RelativeToolTip": "GameStore.DL\\StaticData\\StaticDb.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwC0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:53:40.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore.Tests\\GameServiceTests.cs",
+              "RelativeDocumentMoniker": "GameStore.Tests\\GameServiceTests.cs",
+              "ToolTip": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore.Tests\\GameServiceTests.cs",
+              "RelativeToolTip": "GameStore.Tests\\GameServiceTests.cs",
+              "ViewState": "AQIAAJUAAAAAAAAAAADwvx0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:24:38.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore.DL\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "GameStore.DL\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore.DL\\DependencyInjection.cs",
+              "RelativeToolTip": "GameStore.DL\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T12:41:02.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore.BL\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "GameStore.BL\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore.BL\\DependencyInjection.cs",
+              "RelativeToolTip": "GameStore.BL\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T12:40:21.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "GameStore\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore\\DependencyInjection.cs",
+              "RelativeToolTip": "GameStore\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T12:39:33.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceConfigurationsExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore\\ServiceExtensions\\ServiceConfigurationsExtensions.cs",
+              "RelativeDocumentMoniker": "GameStore\\ServiceExtensions\\ServiceConfigurationsExtensions.cs",
+              "ToolTip": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore\\ServiceExtensions\\ServiceConfigurationsExtensions.cs",
+              "RelativeToolTip": "GameStore\\ServiceExtensions\\ServiceConfigurationsExtensions.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAArwB0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T16:46:52.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGameService.cs",
+              "DocumentMoniker": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore.BL\\Interfaces\\IGameService.cs",
+              "RelativeDocumentMoniker": "GameStore.BL\\Interfaces\\IGameService.cs",
+              "ToolTip": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore.BL\\Interfaces\\IGameService.cs",
+              "RelativeToolTip": "GameStore.BL\\Interfaces\\IGameService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:39:17.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameService.cs",
+              "DocumentMoniker": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore.BL\\Services\\GameService.cs",
+              "RelativeDocumentMoniker": "GameStore.BL\\Services\\GameService.cs",
+              "ToolTip": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore.BL\\Services\\GameService.cs",
+              "RelativeToolTip": "GameStore.BL\\Services\\GameService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:40:29.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "GameStore\\Controllers\\GameController.cs",
+              "ToolTip": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore\\Controllers\\GameController.cs",
+              "RelativeToolTip": "GameStore\\Controllers\\GameController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAjwDMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:11:09.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPublisherService.cs",
+              "DocumentMoniker": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore.BL\\Interfaces\\IPublisherService.cs",
+              "RelativeDocumentMoniker": "GameStore.BL\\Interfaces\\IPublisherService.cs",
+              "ToolTip": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore.BL\\Interfaces\\IPublisherService.cs",
+              "RelativeToolTip": "GameStore.BL\\Interfaces\\IPublisherService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T17:35:43.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PublisherService.cs",
+              "DocumentMoniker": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore.BL\\Services\\PublisherService.cs",
+              "RelativeDocumentMoniker": "GameStore.BL\\Services\\PublisherService.cs",
+              "ToolTip": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore.BL\\Services\\PublisherService.cs",
+              "RelativeToolTip": "GameStore.BL\\Services\\PublisherService.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T14:28:14.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PublisherController.cs",
+              "DocumentMoniker": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore\\Controllers\\PublisherController.cs",
+              "RelativeDocumentMoniker": "GameStore\\Controllers\\PublisherController.cs",
+              "ToolTip": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore\\Controllers\\PublisherController.cs",
+              "RelativeToolTip": "GameStore\\Controllers\\PublisherController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAjwCAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T12:28:38.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore.Models\\DTO\\Publisher.cs",
+              "RelativeDocumentMoniker": "GameStore.Models\\DTO\\Publisher.cs",
+              "ToolTip": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore.Models\\DTO\\Publisher.cs",
+              "RelativeToolTip": "GameStore.Models\\DTO\\Publisher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:26:25.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PublisherRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore.DL\\Repositories\\MongoDb\\PublisherRepository.cs",
+              "RelativeDocumentMoniker": "GameStore.DL\\Repositories\\MongoDb\\PublisherRepository.cs",
+              "ToolTip": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore.DL\\Repositories\\MongoDb\\PublisherRepository.cs",
+              "RelativeToolTip": "GameStore.DL\\Repositories\\MongoDb\\PublisherRepository.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAjwEkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:47:08.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IPublisherRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore.DL\\Interfaces\\IPublisherRepository.cs",
+              "RelativeDocumentMoniker": "GameStore.DL\\Interfaces\\IPublisherRepository.cs",
+              "ToolTip": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore.DL\\Interfaces\\IPublisherRepository.cs",
+              "RelativeToolTip": "GameStore.DL\\Interfaces\\IPublisherRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T17:35:05.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IGameRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore.DL\\Interfaces\\IGameRepository.cs",
+              "RelativeDocumentMoniker": "GameStore.DL\\Interfaces\\IGameRepository.cs",
+              "ToolTip": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore.DL\\Interfaces\\IGameRepository.cs",
+              "RelativeToolTip": "GameStore.DL\\Interfaces\\IGameRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T18:28:42.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore.Models\\DTO\\Game.cs",
+              "RelativeDocumentMoniker": "GameStore.Models\\DTO\\Game.cs",
+              "ToolTip": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore.Models\\DTO\\Game.cs",
+              "RelativeToolTip": "GameStore.Models\\DTO\\Game.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:26:28.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetAllGamesByPublisherRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore.Models\\Requests\\GetAllGamesByPublisherRequest.cs",
+              "RelativeDocumentMoniker": "GameStore.Models\\Requests\\GetAllGamesByPublisherRequest.cs",
+              "ToolTip": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore.Models\\Requests\\GetAllGamesByPublisherRequest.cs",
+              "RelativeToolTip": "GameStore.Models\\Requests\\GetAllGamesByPublisherRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:56:40.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetAllGamesByPublisherResponse.cs",
+              "DocumentMoniker": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore.Models\\Responses\\GetAllGamesByPublisherResponse.cs",
+              "RelativeDocumentMoniker": "GameStore.Models\\Responses\\GetAllGamesByPublisherResponse.cs",
+              "ToolTip": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore.Models\\Responses\\GetAllGamesByPublisherResponse.cs",
+              "RelativeToolTip": "GameStore.Models\\Responses\\GetAllGamesByPublisherResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:35:54.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GameStore.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore.Tests\\GameStore.Tests.csproj",
+              "RelativeDocumentMoniker": "GameStore.Tests\\GameStore.Tests.csproj",
+              "ToolTip": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore.Tests\\GameStore.Tests.csproj",
+              "RelativeToolTip": "GameStore.Tests\\GameStore.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-29T14:09:41.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GameStore.Models.csproj",
+              "DocumentMoniker": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore.Models\\GameStore.Models.csproj",
+              "RelativeDocumentMoniker": "GameStore.Models\\GameStore.Models.csproj",
+              "ToolTip": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore.Models\\GameStore.Models.csproj",
+              "RelativeToolTip": "GameStore.Models\\GameStore.Models.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-29T14:09:58.205Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AddGameRequestValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore\\Validators\\AddGameRequestValidator.cs",
+              "RelativeDocumentMoniker": "GameStore\\Validators\\AddGameRequestValidator.cs",
+              "ToolTip": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore\\Validators\\AddGameRequestValidator.cs",
+              "RelativeToolTip": "GameStore\\Validators\\AddGameRequestValidator.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T13:02:29.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MongoDbConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore.Models\\Configurations\\MongoDbConfiguration.cs",
+              "RelativeDocumentMoniker": "GameStore.Models\\Configurations\\MongoDbConfiguration.cs",
+              "ToolTip": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore.Models\\Configurations\\MongoDbConfiguration.cs",
+              "RelativeToolTip": "GameStore.Models\\Configurations\\MongoDbConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T12:42:27.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MapsterConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore\\MapConfig\\MapsterConfiguration.cs",
+              "RelativeDocumentMoniker": "GameStore\\MapConfig\\MapsterConfiguration.cs",
+              "ToolTip": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore\\MapConfig\\MapsterConfiguration.cs",
+              "RelativeToolTip": "GameStore\\MapConfig\\MapsterConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T12:38:40.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GameStore.csproj",
+              "DocumentMoniker": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore\\GameStore.csproj",
+              "RelativeDocumentMoniker": "GameStore\\GameStore.csproj",
+              "ToolTip": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore\\GameStore.csproj",
+              "RelativeToolTip": "GameStore\\GameStore.csproj",
+              "ViewState": "AQIAABMAAAAAAAAAAAAmwBgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-21T14:09:28.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore\\Program.cs",
+              "RelativeDocumentMoniker": "GameStore\\Program.cs",
+              "ToolTip": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore\\Program.cs",
+              "RelativeToolTip": "GameStore\\Program.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAQwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:14:05.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CustomHealthChecks.cs",
+              "DocumentMoniker": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore\\HealthChecks\\CustomHealthChecks.cs",
+              "RelativeDocumentMoniker": "GameStore\\HealthChecks\\CustomHealthChecks.cs",
+              "ToolTip": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore\\HealthChecks\\CustomHealthChecks.cs",
+              "RelativeToolTip": "GameStore\\HealthChecks\\CustomHealthChecks.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T10:15:48.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "GameStore\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore\\Properties\\launchSettings.json",
+              "RelativeToolTip": "GameStore\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-21T14:21:18.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore\\appsettings.json",
+              "RelativeDocumentMoniker": "GameStore\\appsettings.json",
+              "ToolTip": "C:\\Users\\ivo_0\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\GameStoreB\\GameStoreB\\GameStore\\appsettings.json",
+              "RelativeToolTip": "GameStore\\appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-21T14:27:25.858Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 244,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

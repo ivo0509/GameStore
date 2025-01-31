@@ -1,0 +1,326 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ivo_0\\OneDrive\\Работен плот\\GameStoreB\\GameStoreB\\GameStore.Tests\\GameStore.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ivo_0\\OneDrive\\Работен плот\\GameStoreB\\GameStoreB\\GameStore.BL\\GameStore.BL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ivo_0\\OneDrive\\Работен плот\\GameStoreB\\GameStoreB\\GameStore.BL\\GameStore.BL.csproj",
+        "projectName": "GameStore.BL",
+        "projectPath": "C:\\Users\\ivo_0\\OneDrive\\Работен плот\\GameStoreB\\GameStoreB\\GameStore.BL\\GameStore.BL.csproj",
+        "packagesPath": "C:\\Users\\ivo_0\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ivo_0\\OneDrive\\Работен плот\\GameStoreB\\GameStoreB\\GameStore.BL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Нова папка (3)\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ivo_0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\ivo_0\\OneDrive\\Работен плот\\GameStoreB\\GameStoreB\\GameStore.DL\\GameStore.DL.csproj": {
+                "projectPath": "C:\\Users\\ivo_0\\OneDrive\\Работен плот\\GameStoreB\\GameStoreB\\GameStore.DL\\GameStore.DL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ivo_0\\OneDrive\\Работен плот\\GameStoreB\\GameStoreB\\GameStore.DL\\GameStore.DL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ivo_0\\OneDrive\\Работен плот\\GameStoreB\\GameStoreB\\GameStore.DL\\GameStore.DL.csproj",
+        "projectName": "GameStore.DL",
+        "projectPath": "C:\\Users\\ivo_0\\OneDrive\\Работен плот\\GameStoreB\\GameStoreB\\GameStore.DL\\GameStore.DL.csproj",
+        "packagesPath": "C:\\Users\\ivo_0\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ivo_0\\OneDrive\\Работен плот\\GameStoreB\\GameStoreB\\GameStore.DL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Нова папка (3)\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ivo_0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\ivo_0\\OneDrive\\Работен плот\\GameStoreB\\GameStoreB\\GameStore.Models\\GameStore.Models.csproj": {
+                "projectPath": "C:\\Users\\ivo_0\\OneDrive\\Работен плот\\GameStoreB\\GameStoreB\\GameStore.Models\\GameStore.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ivo_0\\OneDrive\\Работен плот\\GameStoreB\\GameStoreB\\GameStore.Models\\GameStore.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ivo_0\\OneDrive\\Работен плот\\GameStoreB\\GameStoreB\\GameStore.Models\\GameStore.Models.csproj",
+        "projectName": "GameStore.Models",
+        "projectPath": "C:\\Users\\ivo_0\\OneDrive\\Работен плот\\GameStoreB\\GameStoreB\\GameStore.Models\\GameStore.Models.csproj",
+        "packagesPath": "C:\\Users\\ivo_0\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ivo_0\\OneDrive\\Работен плот\\GameStoreB\\GameStoreB\\GameStore.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Нова папка (3)\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ivo_0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ivo_0\\OneDrive\\Работен плот\\GameStoreB\\GameStoreB\\GameStore.Tests\\GameStore.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ivo_0\\OneDrive\\Работен плот\\GameStoreB\\GameStoreB\\GameStore.Tests\\GameStore.Tests.csproj",
+        "projectName": "GameStore.Tests",
+        "projectPath": "C:\\Users\\ivo_0\\OneDrive\\Работен плот\\GameStoreB\\GameStoreB\\GameStore.Tests\\GameStore.Tests.csproj",
+        "packagesPath": "C:\\Users\\ivo_0\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ivo_0\\OneDrive\\Работен плот\\GameStoreB\\GameStoreB\\GameStore.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Нова папка (3)\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ivo_0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\ivo_0\\OneDrive\\Работен плот\\GameStoreB\\GameStoreB\\GameStore.BL\\GameStore.BL.csproj": {
+                "projectPath": "C:\\Users\\ivo_0\\OneDrive\\Работен плот\\GameStoreB\\GameStoreB\\GameStore.BL\\GameStore.BL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
