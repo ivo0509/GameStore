@@ -3,7 +3,7 @@ C# application GameStore with Swagger.UI . The application include:
  - 2 models
  - 2 repositories (CRUD operation) to Mongo with 2 services to them.
  - 2 controlles of Bussiness service with endpoits
- - FluenValidation
+ - FluentValidation
  - HealthChecks
  - Unit tests of Bussiness service - xUnit, Moq
  - Logs - Serilog
